@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Wannnsion95
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python & C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Beginner
 
 <!---
