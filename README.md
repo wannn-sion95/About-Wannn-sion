@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wannnsion95
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python & C
+- 🌱 I’m currently learning Python,Html,Css,JavaScript & C
 - ⚡ Fun fact: Beginner
 
 <!---
